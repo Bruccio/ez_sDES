@@ -31,5 +31,5 @@ The final output of the Feistel network goes through the inverse initial permuta
 Important Note
 This implementation is for educational purposes only and is not suitable for secure data encryption. DES has been deprecated due to security vulnerabilities, and modern encryption algorithms like AES should be used for any practical applications requiring data security.
 
-Author
+
 This code has been entirely created by bruccio.
