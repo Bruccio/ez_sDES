@@ -10,14 +10,14 @@ Expansion function (E(p)) to expand the input data.
 Substitution boxes (S0 and S1) for data transformation.
 P4 permutation and XOR functions for data manipulation.
 Encryption and decryption functions using a given plaintext and key.
-Usage
+Usage-->
 Keyboard Input Mode: You can provide input through the keyboard. Run the script and enter the binary bits for both the plaintext and the key when prompted.
 
 Manual Input Mode: Alternatively, you can manually set the values of the text and key lists in the code to perform encryption and decryption on a predefined input.
 
 Encryption and Decryption: The code supports encryption and decryption using the DES algorithm. You can choose whether to encrypt or decrypt by commenting or uncommenting the appropriate lines in the __main__ block.
 
-How It Works
+How does it work?
 The plaintext and key are initially provided as lists of binary bits.
 The key goes through permutation (P10) and left shift operations (LSHIFT-1 and LSHIFT-2) to generate two subkeys.
 The initial permutation (IP) is applied to the plaintext.
