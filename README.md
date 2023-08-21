@@ -1,8 +1,7 @@
 # ez_sDES
 A short and easy-to-read (and use) version of the simplified Data Encryption Standard
 
-Simple DES Implementation
-This is a simplified implementation of the Data Encryption Standard (DES) algorithm. DES is a symmetric-key block cipher used for encryption and decryption of data. This implementation is meant to provide a basic understanding of the DES algorithm and its core components. Please note that this code is for educational purposes and may not be suitable for production use.
+DES is a symmetric-key block cipher used for encryption and decryption of data. This implementation is meant to provide a basic understanding of the DES algorithm and its core components. Please note that this code is for educational purposes and may not be suitable for production use.
 
 Features
 Initial permutation (IP) and inverse initial permutation (IP^-1) functions.
